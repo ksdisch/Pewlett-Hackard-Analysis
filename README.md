@@ -7,7 +7,7 @@ The purpose of this analysis was to help Pewlett-Hackard prepare for an imminent
 
 ### Resources
 - Data Source(s): departmens.csv, dept_emp.csv, dept_manageres.csv, salaries.csv, titles.csv
-- Postgre SQL 11, pgAdmin 6.8
+- Tools: Postgre SQL 11, pgAdmin 6.8
 
 ## Results
 ### Major Points
